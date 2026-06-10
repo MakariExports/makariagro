@@ -495,3 +495,21 @@ z-index: 1000;
     width:auto;
     display:block;
 }
+
+.nav a{
+    text-decoration:none;
+    color:#222;
+    font-weight:600;
+    padding:8px 12px;
+    border-radius:6px;
+    transition:0.3s;
+}
+
+.nav a:hover{
+    color:#0b3570;
+}
+
+.nav a.active{
+    background:#0b3570;
+    color:white;
+}
