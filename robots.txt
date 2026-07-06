@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://makariagro.vercel.app/sitemap.xml
+Sitemap: https://www.makariagro.com/sitemap.xml
